@@ -5,4 +5,9 @@
     <color name="colorAccent">#D81B60</color>
     <color name="color_back">#432E87</color>
     <color name="white">#FFFFFF</color>
+    <color name="blue">#1AB7FA</color>
+    <color name="first_panel_back">#FB8D8C</color>
+    <color name="button_red">#F87E93</color>
+    <color name="second_panel_back">#3074FD</color>
+    <color name="third_panel_back">#FF4A47</color>
 </resources>
