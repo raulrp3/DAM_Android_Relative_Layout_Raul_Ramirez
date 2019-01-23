@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Relative_layout</string>
+    <string name="first_string">Training Plans</string>
+    <string name="second_string">Report</string>
+    <string name="third_string">Reminder</string>
+    <string name="fourth_string">Settings</string>
+    <string name="fifth_string">Restart Progress</string>
+</resources>
