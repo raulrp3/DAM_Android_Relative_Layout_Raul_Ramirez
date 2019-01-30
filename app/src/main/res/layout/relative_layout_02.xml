@@ -6,26 +6,14 @@
     android:orientation="vertical"
     android:paddingStart="20dp"
     android:paddingEnd="20dp">
-    <RelativeLayout
+    <Button
+        android:id="@+id/btnRLayout01"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:padding="20dp">
-        <ImageView
-            android:id="@+id/menu"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/ic_menu_black_24dp"/>
-        <TextView
-            android:id="@+id/gym_string"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/sixth_string"
-            android:textSize="20dp"
-            android:textColor="@color/white"
-            android:layout_toEndOf="@+id/menu"
-            android:layout_marginStart="70dp"/>
-    </RelativeLayout>
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="@string/layout_01"
+        android:background="@color/white"
+        android:textColor="@color/color_back"/>
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"

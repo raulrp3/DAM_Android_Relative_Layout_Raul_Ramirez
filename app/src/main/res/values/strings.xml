@@ -5,10 +5,11 @@
     <string name="third_string">Reminder</string>
     <string name="fourth_string">Settings</string>
     <string name="fifth_string">Restart Progress</string>
-    <string name="sixth_string">Gym Workout</string>
+    <string name="layout_01">Relative Layout 01</string>
     <string name="seventh_string">Weightlifting Makes Me Hard</string>
     <string name="eighth_string">Letss start</string>
     <string name="full_string">Full Body</string>
     <string name="chest_string">CHEST</string>
     <string name="abs_string">ABS</string>
+    <string name="layout_02">Relative Layout 02</string>
 </resources>
